@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "Name": "Python",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png"
+    },
+    {
+        "id": "2",
+        "Name": "JavaScript",
+        "Image": "https://static.javatpoint.com/images/javascript/javascript_logo.png"
+    },
+    {
+        "id": "3",
+        "Name": "CSS",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+    },
+    {
+        "id": "4",
+        "Name": "Java",
+        "Image": "https://imageio.forbes.com/specials-images/imageserve/5e7cce1921695a000666cc29/Java-14/960x0.jpg?format=jpg&width=960"
+    },
+    {
+        "id": "5",
+        "Name": "C#",
+        "Image": "https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp"
+    },
+    {
+        "id": "6",
+        "Name": "React JS",
+        "Image": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png"
+    },
+    {
+        "id": "7",
+        "Name": "Node",
+        "Image": "https://kinsta.com/wp-content/uploads/2021/09/nodejs-official-logo.jpg"
+    },
+    {
+        "id": "8",
+        "Name": "MERN",
+        "Image": "https://static.javatpoint.com/blog/images/mern-stack.png"
+    }
+]

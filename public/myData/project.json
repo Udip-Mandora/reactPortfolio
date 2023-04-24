@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Name": "MARK",
+        "Content": "MARK is my own perosnal voice assistant for windows. MARK is my graduation project which was made with my fellowe peer using python as a main source of language. Out of 20000 projects, it was the only project to have start-up offer.",
+        "Date": "20/05/2021"
+    },
+    {
+        "id": 2,
+        "Name": "Interaction Design",
+        "Content": "It was a group project which was led by me where we redesigned two streams of humbercurrent.ca as a challenge and it was successfully done by my whole team.",
+        "Date": "15/12/2023"
+    },
+    {
+        "id": 3,
+        "Name": "Breathing Exercise",
+        "Content": "",
+        "Date": "20/05/2021"
+    }
+]

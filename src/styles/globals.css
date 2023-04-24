@@ -1,0 +1,17 @@
+.education-detail {
+  text-decoration: none;
+  list-style: none;
+}
+
+.experience-detail {
+  list-style: none;
+}
+
+.skills-detail {
+  list-style: none;
+}
+
+img {
+  width: 100px;
+  height: 50px;
+}

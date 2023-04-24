@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Company": "Olbuzz",
+        "Title": "Junior SEO Developer",
+        "Start": "01/05/2019",
+        "End": "15/06/2019",
+        "Location": "Ahmedabad",
+        "Description": "Used to develop keywords for clients to increase traffic on their website. In addition, also developed keywords for the organization it self"
+    },
+    {
+        "id": 2,
+        "Company": "Olbuzz",
+        "Title": "Junior Wb Developer",
+        "Start": "01/05/2019",
+        "End": "15/06/2019",
+        "Location": "Ahmedabad",
+        "Description": "Used wordpress with HTML/CSS to develop website for clients to set up thier business on initial stage which was also partnered with google"
+    }
+]
